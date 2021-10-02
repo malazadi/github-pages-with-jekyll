@@ -1,5 +1,4 @@
 ---
-title: "Welcome to my blog"
+title: "Seattle Seahawks"
 ---
-
-I'm glad you are here. I plan to talk about ...
+Welcome to the Seattle Seahawks fanpage! 
