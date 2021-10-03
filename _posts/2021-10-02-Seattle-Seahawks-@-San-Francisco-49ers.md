@@ -1,5 +1,5 @@
 ---
-title: Seattle Seahawks @ San Francisco 49ers
+title: "Seattle Seahawks @ San Francisco 49ers"
 date: 2021-10-02
 ---
 layout: post
