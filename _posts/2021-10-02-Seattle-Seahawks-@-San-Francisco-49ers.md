@@ -1,4 +1,7 @@
 ---
+title: Seattle Seahawks @ San Francisco 49ers
+date: 2021-10-02
+---
 layout: post
 title: Seattle Seahawks @ San Francisco 49ers
 ---
